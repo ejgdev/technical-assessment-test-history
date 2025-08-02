@@ -1,0 +1,14 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 100 100"
+  width="256"
+  height="256"
+  fill="none"
+  stroke="#1040D1"
+  stroke-width="12"
+>
+  <path d="M25 10 v60" />
+  <path d="M25 10 h25 a20 20 0 1 1 0 40 h-25" />
+  <path d="M45 50 l35 40" />
+  <path d="M45 90 l35 -40" />
+</svg>
